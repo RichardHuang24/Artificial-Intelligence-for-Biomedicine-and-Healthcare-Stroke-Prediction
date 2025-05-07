@@ -70,7 +70,7 @@ Note: The dataset contains class imbalance and missing values in the `bmi` colum
 
 ---
 
-## 📖 Report
+## Report
 
 You can find a full explanation of methodology, results, and analysis in `Coursework_1_COMP0172.pdf`.
 
