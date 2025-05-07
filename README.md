@@ -1,4 +1,4 @@
-## 🧠 Stroke Risk Prediction with Explainable Machine Learning
+## Stroke Risk Prediction with Explainable Machine Learning
 
 This repository contains the code and report for a project completed as part of the *COMP0172: Artificial Intelligence for Biomedicine and Healthcare* MSc module at UCL.
 
@@ -6,13 +6,13 @@ The goal of this project is to build predictive models to assess stroke risk usi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `Code Coursework 1 COMP0172.ipynb`: Full notebook containing data preprocessing, model training, evaluation, and explainability visualizations.
 - `Coursework_1_COMP0172.pdf`: Final report detailing methodology, experiments, results, and conclusions.
 
 ---
-## 🧾 Dataset Description
+## Dataset Description
 
 The dataset used in this project is a real-world clinical dataset containing 5,110 patient records with 12 variables:
 
@@ -31,7 +31,7 @@ The dataset used in this project is a real-world clinical dataset containing 5,1
 Note: The dataset contains class imbalance and missing values in the `bmi` column, which were addressed during preprocessing.
 
 --- 
-## 🧪 Key Methods
+## Key Methods
 
 - **Preprocessing**: 
   - Outlier removal (IQR method)
@@ -55,7 +55,7 @@ Note: The dataset contains class imbalance and missing values in the `bmi` colum
 
 ---
 
-## 📊 Highlights
+## Highlights
 
 - Achieved **AUC of 0.85** with Random Forest on an imbalanced clinical dataset.
 - Identified **age** and **average glucose level** as the most important predictors of stroke.
@@ -63,7 +63,7 @@ Note: The dataset contains class imbalance and missing values in the `bmi` colum
 
 ---
 
-## 📌 Tools & Libraries
+## Tools & Libraries
 
 - Python (scikit-learn, SMOTE, imbalanced-learn, SHAP, matplotlib, pandas, numpy)
 - Jupyter Notebook
